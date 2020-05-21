@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mitchellricecio.github.io/sitemap.xml.gz
